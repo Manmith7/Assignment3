@@ -1,6 +1,6 @@
 This is a simple Node.js and Express API to create, read, and delete incident reports, with data stored in a MongoDB database.
 
-/// Features
+## Features
 
     Create a new incident
 
@@ -14,7 +14,7 @@ This is a simple Node.js and Express API to create, read, and delete incident re
 
     Environment variable management with .env
 
-/// Tech Stack
+## Tech Stack
 
     Node.js
 
@@ -24,7 +24,7 @@ This is a simple Node.js and Express API to create, read, and delete incident re
 
     dotenv
 
-/// Setup Instructions
+## Setup Instructions
     1.git clone  https://github.com/Manmith7/Assignment3
     2.cd Assignment3
     3.Install dependencies:
@@ -35,7 +35,7 @@ This is a simple Node.js and Express API to create, read, and delete incident re
     5.Start the server:
         npm start
 
-Example Incident Schema
+## Example Incident Schema
     {
     "title": "Server Downtime",
     "description": "The production server is down.",
